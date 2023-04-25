@@ -1,5 +1,15 @@
 {
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.3"
-  }
+  },
+  "name": "liquid-file-explorer-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "electron ."
+  },
+  "author": "MeltingObsidian",
+  "license": "ISC",
+  "description": ""
 }
